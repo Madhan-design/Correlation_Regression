@@ -74,7 +74,7 @@ plt.show()
 
 # Output 
 ![Screenshot 2025-05-22 103247](https://github.com/user-attachments/assets/de6972be-a78a-4d6e-a343-ab8e623c2350)
-![image](https://github.com/gauthamkrishna7/Correlation_Regression/assets/141175025/ee5f0956-ef5c-48f7-863d-c802343a1db0)
+
 
 
 
